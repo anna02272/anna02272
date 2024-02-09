@@ -1,66 +1,56 @@
 ### Hey there! I'm Ana! 👋🏽
 
-I'm a 21-year-old developer from Serbia, currently pursuing my studies at the Faculty of Technical Sciences, University of Novi Sad. 
-I thrive on challenges and love exploring new technologies. I'm always eager to expand my skill set and take on new projects. 
+I'm a 21-year-old developer from Serbia, currently pursuing my studies at the Faculty of Technical Sciences, University of Novi Sad. I thrive on challenges and love exploring new technologies. I'm always eager to expand my skill set and take on new projects.
+
 <hr>
 
 ### 📦 Toolbox
 
-#### Frontend Development:
-- Angular Framework
-- HTML
-- Cascading Style Sheets (CSS)
+| Frontend Development     | Backend Development           |
+|--------------------------|-------------------------------|
+| - Angular Framework      | - Java (Spring Boot, JPA)     |
+| - HTML                   | - Go (Golang)                 |
+| - Cascading Style Sheets (CSS) | - C#                      |
+|                          | - .NET framework              |
+|                          | - Windows Presentation Foundation (WPF) |
 
-#### Backend Development:
-- Java (Spring Boot, JPA)
-- Go (Golang)
-- C#
-- .NET framework
-- Windows Presentation Foundation (WPF)
+| Databases                | Mobile Development            |
+|--------------------------|-------------------------------|
+| - SQL                    | - Android                     |
+| - NoSQL                  |                               |
+|   - MongoDB              |                               |
+|   - Cassandra            |                               |
+|   - Consul               |                               |
+|   - HDFS                 |                               |
+|   - Redis                |                               |
+|   - Neo4j                |                               |
+| - Firebase               |                               |
 
-#### Databases:
-- SQL
-- NoSQL 
-  - MongoDB
-  - Cassandra
-  - Consul
-  - HDFS
-  - Redis
-  - Neo4j
-- Firebase
+| Version Control          | Programming Concepts          |
+|--------------------------|-------------------------------|
+| - Git                    | - Object-Oriented Programming (OOP) |
+|                          | - UML                         |
 
-#### Mobile Development:
-- Android
-  
-#### Version Control:
-- Git
+| Containerization & Orchestration | Distributed Tracing & Monitoring |
+|---------------------------------|----------------------------------|
+| - Docker                        | - Jaeger                         |
+| - Kubernetes                    |                                  |
 
-#### Programming Concepts:
-- Object-Oriented Programming (OOP)
-- UML
+| Backend Technologies & Patterns | Documentation & API Management |
+|--------------------------------|-------------------------------|
+| - Saga                         | - Swagger                     |
+| - Event Sourcing and CQRS      |                               |
+| - API Gateway                  |                               |
+| - Web socket                   |                               |
 
-#### Containerization & Orchestration:
-- Docker
-- Kubernetes
+| Security                      |
+|-------------------------------|
+| - HTTPS                       |
+| - Data Validation             |
+| - Authentication and Access Control |
+| - Data Protection (Encryption, Hashing) |
+| - Logging                     |
 
-#### Distributed Tracing & Monitoring:
-- Jaeger
-
-#### Backend Technologies & Patterns:
-- Saga
-- Event Sourcing and CQRS
-- API Gateway
-- Web socket
-
-#### Documentation & API Management:
-- Swagger
-  
-#### Security:
-- HTTPS
-- Data Validation
-- Authentication and Access Control
-- Data Protection (Encryption, Hashing)
-- Logging
 
 
 <!--
