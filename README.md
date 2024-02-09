@@ -6,64 +6,58 @@ I'm a 21-year-old developer from Serbia, currently pursuing my studies at the Fa
 
 ### 📦 Toolbox
 
-| Frontend Development     | Backend Development           |
-|--------------------------|-------------------------------|
-| - Angular Framework      | - Java (Spring Boot, JPA)     |
-| - HTML                   | - Go (Golang)                 |
-| - Cascading Style Sheets (CSS) | - C#                      |
-|                          | - .NET framework              |
-|                          | - Windows Presentation Foundation (WPF) |
+Frontend Development:
+- Angular Framework
+- HTML
+- Cascading Style Sheets (CSS)
 
-| Databases                | Mobile Development            |
-|--------------------------|-------------------------------|
-| - SQL                    | - Android                     |
-| - NoSQL                  |                               |
-|   - MongoDB              |                               |
-|   - Cassandra            |                               |
-|   - Consul               |                               |
-|   - HDFS                 |                               |
-|   - Redis                |                               |
-|   - Neo4j                |                               |
-| - Firebase               |                               |
+Backend Development:
+- Java (Spring Boot, JPA)
+- Go (Golang)
+- C#
+- .NET framework
+- Windows Presentation Foundation (WPF)
 
-| Version Control          | Programming Concepts          |
-|--------------------------|-------------------------------|
-| - Git                    | - Object-Oriented Programming (OOP) |
-|                          | - UML                         |
+Databases:
+- SQL
+- NoSQL 
+  - MongoDB
+  - Cassandra
+  - Consul
+  - HDFS
+  - Redis
+  - Neo4j
+- Firebase
 
-| Containerization & Orchestration | Distributed Tracing & Monitoring |
-|---------------------------------|----------------------------------|
-| - Docker                        | - Jaeger                         |
-| - Kubernetes                    |                                  |
+Mobile Development:
+- Android
+  
+Version Control:
+- Git
 
-| Backend Technologies & Patterns | Documentation & API Management |
-|--------------------------------|-------------------------------|
-| - Saga                         | - Swagger                     |
-| - Event Sourcing and CQRS      |                               |
-| - API Gateway                  |                               |
-| - Web socket                   |                               |
+Programming Concepts:
+- Object-Oriented Programming (OOP)
+- UML
 
-| Security                      |
-|-------------------------------|
-| - HTTPS                       |
-| - Data Validation             |
-| - Authentication and Access Control |
-| - Data Protection (Encryption, Hashing) |
-| - Logging                     |
+Containerization & Orchestration:
+- Docker
+- Kubernetes
 
+Distributed Tracing & Monitoring:
+- Jaeger
 
+Backend Technologies & Patterns:
+- Saga
+- Event Sourcing and CQRS
+- API Gateway
+- Web socket
 
-<!--
-**anna02272/anna02272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Documentation & API Management:
+- Swagger
+  
+Security:
+- HTTPS
+- Data Validation
+- Authentication and Access Control
+- Data Protection (Encryption, Hashing)
+- Logging
