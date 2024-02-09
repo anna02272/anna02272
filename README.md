@@ -3,7 +3,7 @@
 I'm a 21-year-old developer from Serbia, currently pursuing my studies at the Faculty of Technical Sciences, University of Novi Sad. 
 I thrive on challenges and love exploring new technologies. I'm always eager to expand my skill set and take on new projects. 
 
-###📦 Toolbox
+### 📦 Toolbox
 
 #### Frontend Development:
 - Angular Framework
