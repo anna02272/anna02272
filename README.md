@@ -20,6 +20,7 @@ Backend Development:
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>&nbsp;
 </div>
 
 Mobile Development:
@@ -76,3 +77,7 @@ Security:
 - Authentication and Access Control
 - Data Protection (Encryption, Hashing)
 - Logging
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna02272&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
