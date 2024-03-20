@@ -7,44 +7,62 @@ I'm a 21-year-old developer from Serbia, currently pursuing my studies at the Fa
 ### 📦 Toolbox
 
 Frontend Development:
-- Angular Framework
-- HTML
-- Cascading Style Sheets (CSS)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
 
 Backend Development:
-- Java (Spring Boot, JPA)
-- Go (Golang)
-- C#
-- .NET framework
-- Windows Presentation Foundation (WPF)
-
-Databases:
-- SQL
-- NoSQL 
-  - MongoDB
-  - Cassandra
-  - Consul
-  - HDFS
-  - Redis
-  - Neo4j
-- Firebase
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
 
 Mobile Development:
-- Android
-  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
+
+Databases:
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/consul/consul-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
+
 Version Control:
-- Git
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
+
+Containerization & Orchestration:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
+
+Distributed Tracing & Monitoring:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jaegertracing/jaegertracing-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
+
+Documentation & API Management:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" width="50" height="50"/>&nbsp;
+</div>
 
 Programming Concepts:
 - Object-Oriented Programming (OOP)
 - UML
-
-Containerization & Orchestration:
-- Docker
-- Kubernetes
-
-Distributed Tracing & Monitoring:
-- Jaeger
 
 Backend Technologies & Patterns:
 - Saga
@@ -52,9 +70,6 @@ Backend Technologies & Patterns:
 - API Gateway
 - Web socket
 
-Documentation & API Management:
-- Swagger
-  
 Security:
 - HTTPS
 - Data Validation
