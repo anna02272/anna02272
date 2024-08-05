@@ -22,6 +22,7 @@ Backend Development:
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" width="50" height="50"/>&nbsp;
 </div>
 
 Mobile Development:
@@ -74,6 +75,7 @@ Backend Technologies & Patterns:
 - Web socket
 
 Security:
+- Spring Security
 - HTTPS
 - Data Validation
 - Authentication and Access Control
